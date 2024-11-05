@@ -6,3 +6,4 @@
 2. Install dependencies using `npm install`.
 3. Run the project using `npm run dev`.
 # nextjs-auth
+# nextjs-auth
